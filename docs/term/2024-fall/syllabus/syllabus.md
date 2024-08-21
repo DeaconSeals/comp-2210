@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 16, 2024*
+*Published: August 21, 2024*
 
 ---
 
@@ -157,12 +157,12 @@ Auburn, AL 36849
 
 GTA | Email | Lab Sections
 --- | ----- | ------------      
-Tripp Isbell  			| cai0004@auburn.edu 	| TBD   
-Chaohui Ren   			| czr0050@auburn.edu 	| TBD  
-Hemant Sherawat			| hzs0084@auburn.edu	| TBD
-Muhammad Gulfan			| mzg0108@auburn.edu	| TBD
-Pavan Kalyan Annadevara	| pza0045@auburn.edu	| TBD
-TBD						| ????@auburn.edu		| TBD
+Tripp Isbell  			| cai0004@auburn.edu 	| 003   
+Jennie Ren   			| czr0050@auburn.edu 	| 004  
+Hemant Sherawat			| hzs0084@auburn.edu	| 002
+Muhammad Gulfan			| mzg0108@auburn.edu	| 001
+PK Annadevara	| pza0045@auburn.edu	| 005
+TBD						| ????@auburn.edu		| 006
 
 ---
 
