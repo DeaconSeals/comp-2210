@@ -160,7 +160,7 @@ GTA | Email | Lab Sections
 Tripp Isbell  			| cai0004@auburn.edu 	| 003   
 Jennie Ren   			| czr0050@auburn.edu 	| 004  
 Hemant Sherawat			| hzs0084@auburn.edu	| 002
-Muhammad Gulfan			| mzg0108@auburn.edu	| 001
+Muhammad Gulfam			| mzg0108@auburn.edu	| 001
 PK Annadevara	| pza0045@auburn.edu	| 005
 TBD						| ????@auburn.edu		| 006
 
