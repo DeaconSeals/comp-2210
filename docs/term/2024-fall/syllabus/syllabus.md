@@ -26,12 +26,12 @@ Section   | Day | Time | Location
 
 Section   | Day | Time | Location  
 -------   | --- | ---- | --------   
-001       | TR  | 9:30 PM - 10:45 PM | Shelby 2205  
-002       | TR  | 9:30 PM - 10:45 PM | Shelby 2210  
-003       | TR  | 9:30 PM - 10:45 PM | Shelby 2125  
-004       | TR  | 9:30 PM - 10:45 PM | Shelby 2122  
-005       | TR  | 9:30 PM - 10:45 PM | Shelby 2129  
-006       | TR  | 9:30 am - 10:45 AM | Shelby 1113   
+001       | TR  | 9:30 AM - 10:45 AM | Shelby 2205  
+002       | TR  | 9:30 AM - 10:45 AM | Shelby 2210  
+003       | TR  | 9:30 AM - 10:45 AM | Shelby 2125  
+004       | TR  | 9:30 AM - 10:45 AM | Shelby 2122  
+005       | TR  | 9:30 AM - 10:45 AM | Shelby 2129  
+006       | TR  | 9:30 AM - 10:45 AM | Shelby 1113   
 
 **Note Regarding Canvas and Course Sections:** All the course sections above
 are combined (cross-listed) into one Canvas course. Canvas labels this single
