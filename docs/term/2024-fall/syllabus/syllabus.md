@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 21, 2024*
+*Published: September 17, 2024*
 
 ---
 
@@ -161,8 +161,8 @@ Tripp Isbell  			| cai0004@auburn.edu 	| 003
 Jennie Ren   			| czr0050@auburn.edu 	| 004  
 Hemant Sherawat			| hzs0084@auburn.edu	| 002
 Muhammad Gulfam			| mzg0108@auburn.edu	| 001
-PK Annadevara	| pza0045@auburn.edu	| 005
-TBD						| ????@auburn.edu		| 006
+PK Annadevara			| pza0045@auburn.edu	| 005
+Logan Konopatzke		| lmk0047@auburn.edu	| 006
 
 ---
 
