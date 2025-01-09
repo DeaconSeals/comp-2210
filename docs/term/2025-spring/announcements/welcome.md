@@ -1,12 +1,12 @@
-# Welcome to COMP 2210 Fall 2024!
+# Welcome to COMP 2210 Spring!
 
 This is a course in data structures and algorithms, and is one of the most
 important foundational courses in the curriculum. It's also one of my favorite
 courses to teach and I'm looking forward to this semester!  
 
-The first lecture will be on *Tuesday, August 20* from 8:00 AM CT - 9:15 AM CT
-in Langdon 101 for all sections. **Labs do not meet the first week**, so the first
-lab meeting will also meet *Tuesday, August 27* at the time and in the lab 
+The first lecture will be on *Tuesday, January 14* from 8:00 AM CT - 9:15 AM CT
+in Foy 258 for all sections. **Labs do not meet the first week**, so the first
+lab meeting will also meet *Tuesday, January 21* at the time and in the lab 
 room assigned to the section for which you registered.
 
 This is a combined lecture/lab course that meets for 150 minutes each week in

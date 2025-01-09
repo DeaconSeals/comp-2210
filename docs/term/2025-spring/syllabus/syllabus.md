@@ -1,11 +1,11 @@
 
 ---
 
-# COMP 2210 Fundamentals of Computing II <br> Fall 2024 Course Syllabus
+# COMP 2210 Fundamentals of Computing II <br> Spring 2025 Course Syllabus
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: September 17, 2024*
+*Published: January 09, 2025*
 
 ---
 
@@ -20,18 +20,22 @@ information can be obtained only in those class meetings.
 
 Section   | Day | Time | Location  
 --------- | --- | ---- | --------  
-(all) | TR | 8:00 AM - 9:15 AM  | Langdon 101  
+(all) | TR | 8:00 AM - 9:15 AM  | Foy 258  
 
 ## Lab
 
 Section   | Day | Time | Location  
 -------   | --- | ---- | --------   
-001       | TR  | 9:30 AM - 10:45 AM | Shelby 2205  
-002       | TR  | 9:30 AM - 10:45 AM | Shelby 2210  
-003       | TR  | 9:30 AM - 10:45 AM | Shelby 2125  
-004       | TR  | 9:30 AM - 10:45 AM | Shelby 2122  
-005       | TR  | 9:30 AM - 10:45 AM | Shelby 2129  
-006       | TR  | 9:30 AM - 10:45 AM | Shelby 1113   
+001       | TR  | 12:30 PM - 1:45 PM | Shelby 2205  
+002       | TR  | 12:30 PM - 1:45 PM | Shelby 2210  
+003       | TR  | 12:30 PM - 1:45 PM | Shelby 2122  
+004       | TR  | 12:30 PM - 1:45 PM | Shelby 2125  
+005       | TR  | 12:30 PM - 1:45 PM | Shelby 2129     
+006       | TR  | 2:00 PM - 3:15 PM | Shelby 2205  
+007       | TR  | 2:00 PM - 3:15 PM | Shelby 2210  
+008       | TR  | 2:00 PM - 3:15 PM | Shelby 2122  
+009       | TR  | 2:00 PM - 3:15 PM | Shelby 2125  
+010       | TR  | 2:00 PM - 3:15 PM | Shelby 2129
 
 **Note Regarding Canvas and Course Sections:** All the course sections above
 are combined (cross-listed) into one Canvas course. Canvas labels this single
@@ -140,29 +144,26 @@ Auburn University
 345 West Magnolia Ave  
 Auburn, AL 36849  
 `djs0080@auburn.edu`  
-**Office Hours:** By appointment; In person or online  
+**Office Hours:** TR 9:30 AM - 10:30 AM  
 
 ### Dean Hendrix
-
 Associate Dean of Undergraduate Studies and Program Assessment  
 Samuel Ginn College of Engineering  
 1301F Shelby Center  
 Auburn University  
 345 West Magnolia Ave  
 Auburn, AL 36849  
-`dean.hendrix@auburn.edu`  
 
 
 ## Teaching Assistants
 
 GTA | Email | Lab Sections
---- | ----- | ------------      
-Tripp Isbell  			| cai0004@auburn.edu 	| 003   
-Jennie Ren   			| czr0050@auburn.edu 	| 004  
-Hemant Sherawat			| hzs0084@auburn.edu	| 002
-Muhammad Gulfam			| mzg0108@auburn.edu	| 001
-PK Annadevara			| pza0045@auburn.edu	| 005
-Logan Konopatzke		| lmk0047@auburn.edu	| 006
+--- | ----- | ------------       
+PK Annadevara     | pza0045@auburn.edu  | TBD
+David Gray          | dag0048@auburn.edu  | TBD
+Muhammad Gulfam			| mzg0108@auburn.edu	| TBD
+Sultan Kulbarakov | szk0222@auburn.edu  | TBD
+Hemant Sherawat     | hzs0084@auburn.edu  | TBD
 
 ---
 
@@ -221,8 +222,7 @@ numeric score using the following scale.
 [60, 70)  | D
 [0, 60)   | F
 
-**Extra Credit:** Opportunities for extra credit are sometimes given to the
-entire class, but are never given on an individual basis.
+**Extra Credit:** There are no opportunities for extra credit in this course.
 
 ---
 
@@ -257,14 +257,14 @@ and most relevant chapters from each textbook.
 
 Week  | Dates                    | Module | Graded Items | Bailey | Shaffer | Weiss | Sedgewick
 ----  | -----                    | ------ | ------------ | ------ | ------- | ----- | ---------
-1     | Mon 19 Aug - Sun 25 Aug  | M0     | H            |        |         |       |       
-2-3   | Mon 26 Aug - Sun 08 Sep  | M1     | H A          | 2, 4, 8, 11 | 1 | 1-4, 6 | 3, 4, 12 
-4-5   | Mon 09 Sep - Sun 22 Sep  | M2     | H A E T      | 5, 6 | 2, 3, 7 | 5, 8 | 2, 6-8
-6-7   | Mon 23 Sep - Sun 06 Oct  | M3     | H A          | 3, 7, 9 | 4 | 6, 17 | 3, 4 
-8-9   | Mon 07 Oct - Sun 20 Oct  | M4     | H A E T      | 5, 9-11 | 2, 4 | 6, 7, 15-17 | 4, 5 
-10-11 | Mon 21 Oct - Sun 03 Nov  | M5     | H A          | 12, 13 | 5, 10, 13 | 6, 18, 19, 21 | 5, 9, 12, 13 
-12-13 | Mon 04 Nov - Sun 17 Nov  | M6     | H A          | 15, 16 | 9, 11 | 6, 14, 20 | 1, 14
-14-15 | Mon 18 Nov - Fri 06 Dec  | M7     | H A T        |   | 6 | 24 | 1, 4  
+1     | Mon 13 Jan - Sun 19 Jan  | M0     | H            |        |         |       |       
+2-3   | Mon 20 Jan - Sun 02 Feb  | M1     | H A          | 2, 4, 8, 11 | 1 | 1-4, 6 | 3, 4, 12 
+4-5   | Mon 03 Feb - Sun 16 Feb  | M2     | H A E T      | 5, 6 | 2, 3, 7 | 5, 8 | 2, 6-8
+6-7   | Mon 17 Feb - Sun 02 Mar  | M3     | H A          | 3, 7, 9 | 4 | 6, 17 | 3, 4 
+8-9   | Mon 03 Mar - Sun 23 Mar  | M4     | H A E T      | 5, 9-11 | 2, 4 | 6, 7, 15-17 | 4, 5 
+10-11 | Mon 24 Mar - Sun 06 Apr  | M5     | H A          | 12, 13 | 5, 10, 13 | 6, 18, 19, 21 | 5, 9, 12, 13 
+12-13 | Mon 07 Apr - Sun 20 Apr  | M6     | H A          | 15, 16 | 9, 11 | 6, 14, 20 | 1, 14
+14-15 | Mon 21 Apr - Wed 30 Apr  | M7     | H E T        |   | 6 | 24 | 1, 4  
 
 The **Final Exam**, which is part of M7, will be given on the last lab day of
 the course and **not** on the day designated in the Final Exam Schedule.
@@ -337,8 +337,7 @@ exception to this policy (e.g., medical emergency) you must treat this as an
 
 If connectivity issues (e.g., Internet connection problems, electrical power
 failures) prevent you from completing an element of the course on time, you must
-notify the instructor immediately when the incident occurs (email to
-`dean.hendrix@auburn.edu` and/or voicemail to 334-844-6305) and then provide
+notify the instructor immediately when the incident occurs and then provide
 appropriate documentation (e.g., service provider notices) within one hour of
 the incident.  No extensions or makeup opportunities will be available
 otherwise. Note that excuses for connectivity issues within 30 minutes of an
@@ -392,8 +391,10 @@ Your Auburn University email address (`@auburn.edu`) is the university-approved
 form of communication between instructors and students. Emails that you send to
 the instructor or to a teaching assistant must come from your `@auburn.edu`
 email address. Sending emails from addresses other than `@auburn.edu` could
-result in you not receiving a response to your message. Do not send messages via
-Canvas; instead, send an email.
+result in you not receiving a response to your message. ***Do not send messages
+via Canvas; instead, send an email.*** Teaching assistants may or may not be
+accessible via Discord. ***Discord is not, however, an appropriate medium for
+communication with the instructor; instead, send an email.***
 
 All course announcements will be posted to Canvas and/or sent to your
 `@auburn.edu` address. All email communications from the instructor to you will
