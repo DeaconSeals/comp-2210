@@ -1,4 +1,4 @@
-# Welcome to COMP 2210 Spring!
+# Welcome to COMP 2210 Spring 2025!
 
 This is a course in data structures and algorithms, and is one of the most
 important foundational courses in the curriculum. It's also one of my favorite
