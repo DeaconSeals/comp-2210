@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: January 10, 2025*
+*Published: January 14, 2025*
 
 ---
 
@@ -159,11 +159,11 @@ Auburn, AL 36849
 
 GTA | Email | Lab Sections
 --- | ----- | ------------       
-PK Annadevara     | pza0045@auburn.edu  | TBD
-David Gray          | dag0048@auburn.edu  | TBD
-Muhammad Gulfam			| mzg0108@auburn.edu	| TBD
-Sultan Kulbarakov | szk0222@auburn.edu  | TBD
-Hemant Sherawat     | hzs0084@auburn.edu  | TBD
+PK Annadevara     | pza0045@auburn.edu  | 005, 010
+David Gray          | dag0048@auburn.edu  | 004, 009
+Muhammad Gulfam			| mzg0108@auburn.edu	| 001, 006
+Sultan Kulbarakov | szk0222@auburn.edu  | 003, 008
+Hemant Sherawat     | hzs0084@auburn.edu  | 002, 007
 
 ---
 
@@ -390,11 +390,12 @@ and the collaboration is allowed only within the bounds set by the instructor.
 Your Auburn University email address (`@auburn.edu`) is the university-approved
 form of communication between instructors and students. Emails that you send to
 the instructor or to a teaching assistant must come from your `@auburn.edu`
-email address. Sending emails from addresses other than `@auburn.edu` could
-result in you not receiving a response to your message. ***Do not send messages
-via Canvas; instead, send an email.*** Teaching assistants may or may not be
-accessible via Discord. ***Discord is not, however, an appropriate medium for
-communication with the instructor; instead, send an email.***
+email addressand include the course in the subject (e.g., 
+`[COMP 1110] Subject`). Sending emails from addresses other than `@auburn.edu`
+could result in you not receiving a response to your message. ***Do not send
+messages via Canvas; instead, send an email.*** Teaching assistants may or may
+not be accessible via Discord. ***Discord is not, however, an appropriate
+medium for communication with the instructor; instead, send an email.***
 
 All course announcements will be posted to Canvas and/or sent to your
 `@auburn.edu` address. All email communications from the instructor to you will
