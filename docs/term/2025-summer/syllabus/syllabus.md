@@ -22,7 +22,7 @@ activities required by this course.
 You are expected to have all the equipment and software needed to be
 successful in this course. At a minimum, you must have a computer and a
 broadband Internet connection capable of interacting with Canvas and Vocareum
-via a web browser, as well as a webcam for online exam proctoring.
+via a web browser.
 
 Times for all course events (assignment deadlines, exam times, etc.) will be
 set in US [Central Time](https://www.timeanddate.com/time/zones/ct). 
@@ -32,17 +32,6 @@ instructions linked
 [here](https://community.canvaslms.com/t5/Student-Guide/How-do-I-set-a-time-zone-in-my-user-account-as-a-student/ta-p/414)
 to have Canvas show deadlines appropriately in your local time zone to avoid
 any confusion.
-
-## Proctoring
-
-All exams must be completed with online, asynchronous proctoring via
-Respondus Monitor + Respondus LockDown Browser.
-
-Given the online proctoring options available to the instructor,
-Respondus Monitor + Respondus LockDown Browser was selected because it seems to
-be the least invasive to students. For more information, see the video linked
-[here](https://web.respondus.com/lockdownbrowser-student-video/).
-
 
 # Course Description
 
@@ -127,14 +116,6 @@ semester will be charged to your eBill via Auburn's [All
 Access](https://www.aubookstore.com/t-Textbook_AllAccess.aspx) program.
 Instructions on accessing and using Vocareum are provided as part of the Module
 0 materials in the course.
-
-## Respondus Monitor Subscription
-A Respondus Monitor subscription costs $15 per year. You can make the purchase
-the first time Respondus Monitor is required by an exam in the course. The
-process is simple, and payment can be made via credit card, debit card, or
-PayPal. A student subscription for Respondus Monitor is valid for 12 months
-(365 days) and can be used with other courses.
-
 
 ---
 
