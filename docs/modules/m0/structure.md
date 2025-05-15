@@ -6,11 +6,9 @@ through seven. Module 0 is an introductory "getting started" module, while
 Module 1 through Module 7 are course-content modules. Rather than being
 organized strictly by content, these modules are
 [timeboxed](https://en.wikipedia.org/wiki/Timeboxing); that is, M1 -- M7 are of
-fixed, equal durations with specific tasks to be completed within each. (If
-you're familiar with [agile
-methods](https://en.wikipedia.org/wiki/Agile_software_development), you'll
-recognize similarities to
-[Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) sprints.)
+fixed, roughly equal durations with specific tasks to be completed within each.
+(If you're familiar with [agile methods](https://en.wikipedia.org/wiki/Agile_software_development),
+you'll recognize similarities to [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) sprints.)
 
 Scheduling, planning, and knowing when things are due are easily done with
 timeboxed modules. All graded items are scheduled to be due or delivered on
@@ -23,25 +21,30 @@ module boundaries. Specifically:
 - Each lab test is given immediately after the last day of the module that
   contains it.
 
-The timeboxed organization of the course is as follows. Module 0 begins on the
+<!-- The timeboxed organization of the course is as follows. Module 0 begins on the
 first day of classes for the term and ends on the first Sunday of the term.
 Each module 1-7 begins on a Monday and ends on a Sunday. Here is the schedule
+for [this term](http://www.auburn.edu/main/auweb_calendar.php). -->
+
+The timeboxed organization of the course is as follows. Here is the schedule
 for [this term](http://www.auburn.edu/main/auweb_calendar.php).
 
 Module | Dates                   | Duration 
 ------ | ----------------------- | --------   
-M0     | Mon 13 Jan - Sun 19 Jan | (7 days)  
-M1     | Mon 20 Jan - Sun 02 Feb | (14 days)^  
-M2     | Mon 03 Feb - Sun 16 Feb | (14 days)  
-M3     | Mon 17 Feb - Sun 02 Mar | (14 days)  
-M4     | Mon 03 Mar - Sun 23 Mar | (14 days)^  
-M5     | Mon 24 Mar - Sun 06 Apr | (14 days)  
-M6     | Mon 07 Apr - Sun 20 Apr | (14 days)  
-M7     | Mon 21 Apr - Wed 30 Apr | (10 days)   
+M0     | Mon 19 May - Thu 22 May | (4 days)  
+M1     | Fri 23 May - Sun 01 Jun | (10 days)^  
+M2     | Mon 02 Jun - Wed 11 Jun | (10 days)  
+M3     | Thu 12 Jun - Sat 21 Jun | (10 days)  
+M4     | Sun 22 Jun - Sun 06 Jul | (15 days)^  
+M5     | Mon 07 Jul - Thu 17 Jul | (11 days)  
+M6     | Fri 18 Jul - Sun 27 Jul | (10 days)  
+M7     | Mon 28 Jul - Fri 01 Aug | (5 days)   
 
 ^ *University No-Class Days:*  
-Mon 20 Jan, M.L. King Jr. Day
-Mon 10 Mar - Fri Mar 14, Spring Break
+Mon 26 May, Memorial Day
+Thu 19 Jun, Juneteenth
+Tue 24 Jun - Fri 27 Jun - Mini-Semester I Reading Days and Finals
+Fri 4 Jul - Independence Day
 
 # Module Structure
 
