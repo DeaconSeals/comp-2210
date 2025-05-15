@@ -113,9 +113,29 @@ be provided as part of the Module 0 materials in the course.
 Vocareum is a cloud-based lab environment in which you will submit programming
 assignments and complete programming tests. The fee for using Vocareum this
 semester will be charged to your eBill via Auburn's [All
-Access](https://www.aubookstore.com/t-Textbook_AllAccess.aspx) program.
-Instructions on accessing and using Vocareum are provided as part of the Module
-0 materials in the course.
+Access](https://aub.ie/allaccess) program. Instructions on accessing and using
+Vocareum are provided as part of the Module 0 materials in the course.
+
+
+## Discord
+
+Discord is an online communication and community-building tool that this course
+will use as a collaborative discussion and Q&A forum. This software is free, and
+instructions on installation and use will be provided in Canvas during the first
+week of the course.
+
+
+## Zoom
+
+This course uses the Zoom teleconferencing software to facilitate optional
+synchronous interaction with the course instructor and TA during office hours
+and appointments. Zoom is licensed by Auburn University, and you can sign up
+free of charge for this added-feature version authenticated with your AU
+credentials at [https://auburn.zoom.us/](https://auburn.zoom.us/).
+
+You must have a computer and a broadband Internet connection capable of
+installing and reliably running
+[Zoom](https://support.zoom.us/hc/en-us/articles/201362023-System-requirements-for-Windows-macOS-and-Linux)
 
 ---
 
@@ -331,11 +351,16 @@ commitment and work that a course will require per credit hour. "*Auburn
 University expects that for each credit hour awarded, an appropriately prepared
 student will complete an average of 3-3.5 hours of academic work per week over
 the length of a 15 week semester.*" This time estimate is independent of
-instructional mode. 
+instructional mode, so although this course is being offered
+Online Asynchronous, you should plan on spending the same amount of
+preparation, work, and “in class” time on this course as you would if you were
+taking the course face-to-face. Also, since this course is being offered in a
+compressed 11 week format, the expected amount of time per week is
+effectively 50% more.
 
 This course carries four credit hours, so at a minimum, an "appropriately
 prepared" student (read: you did great in COMP 1210) would be expected to spend
-12-14 hours each week working on this course. Regardless of the specifics, you
+16-18 hours each week working on this course. Regardless of the specifics, you
 are expected to allocate an appropriate amount of time for this course. 
 
 
@@ -369,7 +394,7 @@ Your Auburn University email address (`@auburn.edu`) is the university-approved
 form of communication between instructors and students. Emails that you send to
 the instructor or to a teaching assistant must come from your `@auburn.edu`
 email addressand include the course in the subject (e.g., 
-`[COMP 1110] Subject`). Sending emails from addresses other than `@auburn.edu`
+`[COMP 2210] Subject`). Sending emails from addresses other than `@auburn.edu`
 could result in you not receiving a response to your message. ***Do not send
 messages via Canvas; instead, send an email.*** Discord is used in this course,
 but may not be actively monitored by the instructor. Some conversations (e.g.,
@@ -443,12 +468,10 @@ teaching responsibilities to ensure that the course will proceed uninterrupted.
 
 ## Auburn University Transition to Remote Operations
 
-If Auburn University is forced to move to remote operations, the instructional
-modality for this course will remain Online Asynchronous. No changes to course
-content or schedule would be anticipated, but all such details will be announced
-via Canvas and updated in this syllabus as appropriate. You should personally
-plan now for this contingency to ensure that you will be able to minimize the
-disruption this move could cause to your personal living and study arrangements.
+Since this course is being delivered in Online Asynchronous mode, neither
+course requirements nor course delivery will change in the event that the
+University is forced to move to remote operations and fully online
+instruction. 
 
 
 ## Data Collection and Use Disclosure
