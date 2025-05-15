@@ -22,7 +22,7 @@ activities required by this course.
 You are expected to have all the equipment and software needed to be
 successful in this course. At a minimum, you must have a computer and a
 broadband Internet connection capable of interacting with Canvas and Vocareum
-via a web browser.
+via a web browser, as well as streaming video and audio of pre-recorded lectures.
 
 Times for all course events (assignment deadlines, exam times, etc.) will be
 set in US [Central Time](https://www.timeanddate.com/time/zones/ct). 
