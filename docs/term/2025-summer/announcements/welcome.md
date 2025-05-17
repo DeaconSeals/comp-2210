@@ -1,31 +1,29 @@
-# Welcome to COMP 2210 Spring 2025!
+# Welcome to COMP 2210 Summer 2025!
 
 This is a course in data structures and algorithms, and is one of the most
-important foundational courses in the curriculum. It's also one of my favorite
-courses to teach and I'm looking forward to this semester!  
+important foundational courses in the curriculum. It's one of my favorite
+courses to teach and I'm looking forward to this term. 
 
-The first lecture will be on *Tuesday, January 14* from 8:00 AM CT - 9:15 AM CT
-in Foy 258 for all sections. **Labs do not meet the first week**, so the first
-lab meeting will also meet *Tuesday, January 21* at the time and in the lab 
-room assigned to the section for which you registered.
+The course begins today with Module 0, a "getting started' set of activities and
+information designed to prepare you for the course content in Modules 1 through
+Module 7. Module 0 may seem a bit "meta" but I think the information is well
+worth taking the time to digest and, hopefully, put into practice. 
 
-This is a combined lecture/lab course that meets for 150 minutes each week in
-lecture and for 150 minutes each week in lab. There are many course sections that
-all meet together for lecture but separately for lab. Be sure to check Tiger
-Scheduler to confirm the course section for which you are registered, since
-Canvas can make it appear (incorrectly) that everyone is in the same section of
-the course.
+Most of the video lectures you'll see were recorded by my colleague and the
+course coordinator, Dr. Hendrix, though I've been teaching this course in
+person for the past year and I'll be your active instructor for the semester.
+This semester, I plan to add introduce some new lectures to help you tackle
+for some of the trickier assignment problems and review for the lab tests and
+exams. So, you'll probably hear a lecture from me at some point!
 
-I look forward to seeing you in lecture.
+Welcome to the course, and War Eagle! 
 
-War Eagle!
+<img src="../../../img/eagle.jpg" width="100">
 
-> Deacon Seals
+> Mr. Deacon Seals
+
 > Instructor of Record  
 > Computer Science and Software Engineering  
-> 3106 Shelby Center  
-> Auburn University  
-> 345 West Magnolia Ave  
-> Auburn, AL 36849  
+> Samuel Ginn College of Engineering  
+> Auburn University
 > djs0080@auburn.edu  
-
