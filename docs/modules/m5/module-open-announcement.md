@@ -31,13 +31,9 @@ As you begin Module 5, here are a few things to keep in mind.
 - As in each module, the assignment and all hands-on activities are due no later
   than 11:59 PM CT on the last day of the module.
 
-- Be sure to ask any questions that you have. The most efficient way to get
-  general questions answered is by posting to the discussion forum. Don’t
-  hesitate to reach out if you need any help or have any questions.
-
 As always, please reach out if you have any questions concerning the course.
 
 Good luck, and have fun!
 
-<img src="../../img/rags.jpg" width="100">
+<img src="../../img/eagle.jpg" width="100">
 

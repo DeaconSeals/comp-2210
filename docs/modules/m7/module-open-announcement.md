@@ -6,10 +6,10 @@ to manage sets that have been partitioned into non-overlapping subsets. These
 **disjoint sets** have applications in many important problems but, perhaps most
 familiarly, in the construction of minimum spanning trees.
 
-Module 7 also has one last programming assignment and, of course, the Final Exam
+Module 7 no programming assignment and, of course, the Final Exam
 and Lab Test 3.
 
 Have fun and enjoy!
 
-<img src="../../img/rags.jpg" width="100"> 
+<img src="../../img/eagle.jpg" width="100"> 
 
