@@ -50,5 +50,5 @@ As you begin Module 4, here are a few things to keep in mind.
 Lots of good stuff in this module! Have fun, and please do reach out if you
 have questions or concerns.
 
-<img src="../../img/rags.jpg" width="100">
+<img src="../../img/eagle.jpg" width="100">
 
