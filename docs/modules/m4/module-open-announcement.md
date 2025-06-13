@@ -6,6 +6,16 @@ finding the experience fun, challenging, and rewarding. Module 4 focuses on
 collections used in problem solving. We will also be introduced to two new
 solution patterns - **breadth-first** and **depth-first search**.
 
+As a word of caution, Module 4 is the point where the difficulty of the course
+seems to increase for many students, and time management will become more
+important. To alleviate the difficulty of Assignment 4, in particular, I've
+recorded a brief lecture with hints and guidance, linked below, that I
+recommend watching ***after you read the assignment instructions***.
+
+>[*Video: Assignment 4 Hints*](https://auburn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ac1b5d68-5d26-4457-a7ee-b2fb0112d7bf&start=0)
+> Note: I mistakenly describe space complexity as "constant time," when I
+> meant to say "constant space."
+
 Module 4 also contains the second exam and second lab test. All exams and tests
 in this course are to some extent comprehensive, since the course material
 builds upon itself, but the second exam and lab test will focus on the material
@@ -36,10 +46,6 @@ As you begin Module 4, here are a few things to keep in mind.
 
 - As in each module, the assignment and all hands-on activities are due no later
   than 11:59 PM CT on the last day of the module.
-
-- Be sure to ask any questions that you have. The most efficient way to get
-  general questions answered is by posting to the course discussion forum. Don’t
-  hesitate to reach out if you need any help or have any questions.
 
 Lots of good stuff in this module! Have fun, and please do reach out if you
 have questions or concerns.
