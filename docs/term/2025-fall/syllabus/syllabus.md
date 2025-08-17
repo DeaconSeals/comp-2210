@@ -1,11 +1,11 @@
 
 ---
 
-# COMP 2210 Fundamentals of Computing II <br> Spring 2025 Course Syllabus
+# COMP 2210 Fundamentals of Computing II <br> Fall 2025 Course Syllabus
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: January 14, 2025*
+*Published: August 18, 2025*
 
 ---
 
@@ -20,22 +20,18 @@ information can be obtained only in those class meetings.
 
 Section   | Day | Time | Location  
 --------- | --- | ---- | --------  
-(all) | TR | 8:00 AM - 9:15 AM  | Foy 258  
+(all) | TR | 8:00 AM - 9:15 AM  | Langdon 101  
 
 ## Lab
 
-Section   | Day | Time | Location  
--------   | --- | ---- | --------   
-001       | TR  | 12:30 PM - 1:45 PM | Shelby 2205  
-002       | TR  | 12:30 PM - 1:45 PM | Shelby 2210  
-003       | TR  | 12:30 PM - 1:45 PM | Shelby 2122  
-004       | TR  | 12:30 PM - 1:45 PM | Shelby 2125  
-005       | TR  | 12:30 PM - 1:45 PM | Shelby 2129     
-006       | TR  | 2:00 PM - 3:15 PM | Shelby 2205  
-007       | TR  | 2:00 PM - 3:15 PM | Shelby 2210  
-008       | TR  | 2:00 PM - 3:15 PM | Shelby 2122  
-009       | TR  | 2:00 PM - 3:15 PM | Shelby 2125  
-010       | TR  | 2:00 PM - 3:15 PM | Shelby 2129
+Section   | Day | Time | Location | Staff |
+-------   | --- | ---- | -------- | ----- |
+001       | TR  | 9:30 AM - 10:45 AM | Shelby 2205 | Jeremy Wang
+002       | TR  | 9:30 AM - 10:45 AM | Shelby 2210 | Aidan Toomey
+003       | TR  | 9:30 AM - 10:45 AM | Shelby 2125 | PK Annadevara
+004       | TR  | 9:30 AM - 10:45 AM | Shelby 2122 | Rosalyn Navarrate
+005       | TR  | 9:30 AM - 10:45 AM | Shelby 2210 | Aidan Toomey
+
 
 **Note Regarding Canvas and Course Sections:** All the course sections above
 are combined (cross-listed) into one Canvas course. Canvas labels this single
@@ -139,12 +135,12 @@ Instructions on accessing and using Vocareum are provided as part of the Module
 ### Deacon Seals
 Instructor of Record  
 Computer Science and Software Engineering  
-3106 Shelby Center  
+3139 F Shelby Center  
 Auburn University  
 345 West Magnolia Ave  
 Auburn, AL 36849  
 `djs0080@auburn.edu`  
-**Office Hours:** TR 9:30 AM - 10:30 AM  
+**Office Hours:** TR 11:00 AM - 12:00 PM  
 
 ### Dean Hendrix
 Associate Dean of Undergraduate Studies and Program Assessment  
@@ -159,11 +155,10 @@ Auburn, AL 36849
 
 GTA | Email | Lab Sections
 --- | ----- | ------------       
-PK Annadevara     | pza0045@auburn.edu  | 005, 010
-David Gray          | dag0048@auburn.edu  | 004, 009
-Muhammad Gulfam			| mzg0108@auburn.edu	| 001, 006
-Sultan Kulbarakov | szk0222@auburn.edu  | 003, 008
-Hemant Sherawat     | hzs0084@auburn.edu  | 002, 007
+PK Annadevara     | pza0045@auburn.edu  | 003
+Rosalyn Navarrate | rdn0011@auburn.edu | 004
+Aidan Toomey | act0075@auburn.edu | 002, 005
+Jeremy Wang | jdw0134@auburn.edu | 001
 
 ---
 
@@ -222,7 +217,10 @@ numeric score using the following scale.
 [60, 70)  | D
 [0, 60)   | F
 
-**Extra Credit:** There are no opportunities for extra credit in this course.
+**Extra Credit:** There are no opportunities for extra credit planned in this
+course. Extra credit opportunities, if deemed appropriate by the instructor,
+will be made available to the entire class. Requests for extra credit to the
+instructor will not receive a response.
 
 ---
 
@@ -269,7 +267,17 @@ Week  | Dates                    | Module | Graded Items | Bailey | Shaffer | We
 The **Final Exam**, which is part of M7, will be given on the last lab day of
 the course and **not** on the day designated in the Final Exam Schedule.
 
+## Lab Test and Exam Dates
 
+09/23: Lab Test 1 
+09/25: Exam 1 
+10/21: Lab Test 2 
+10/23: Exam 2 
+12/02: Lab Test 3 
+12/04: Final Exam
+
+**Note**: The above dates are subject to change at the instructor's discretion.
+Students will be notified of any changes via Canvas announcement.
 
 ---
 
