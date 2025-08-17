@@ -29,8 +29,8 @@ As you begin Module 2, here are a few things to keep in mind.
   sure to take advantage of the fact that *linear scan* is still the solution to
   all seven methods.
 
-- As in each module, the assignment is due no later than 11:59 PM CT on the
-  last day of the module.
+- As in each module, the assignment and all hands-on activities are due at
+  11:59 PM CT on the last day of the module.
 
 - Exam 1 and Lab Test 1 are each part of this module. Details concerning
   content, scheduling, and instructions will be sent in a separate announcement.

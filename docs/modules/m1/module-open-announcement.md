@@ -27,8 +27,8 @@ As you begin Module 1, here are a few things to keep in mind.
   **linear scan** solution strategy. I suggest that you approach each method
   from that perspective.
 
-- As in each module, the assignment and all hands-on activities are due no later
-  than 11:59 PM CT on the last day of the module.
+- As in each module, the assignment and all hands-on activities are due at
+  11:59 PM CT on the last day of the module.
 
 - Be sure to ask any questions that you have. The most efficient way to get
   general questions answered is by posting to the course forum.

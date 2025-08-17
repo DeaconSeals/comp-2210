@@ -29,8 +29,8 @@ As you begin Module 3, here are a few things to keep in mind.
 - The assignment in this module is quite different than the first two, and I
   encourage you to start right away.
 
-- As in each module, the assignment and all hands-on activities are due no later
-  than 11:59 PM CT on the last day of the module.
+- As in each module, the assignment and all hands-on activities are due at
+  11:59 PM CT on the last day of the module.
 
 Good luck, and have fun!
 

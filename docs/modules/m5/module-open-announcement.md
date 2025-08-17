@@ -28,8 +28,8 @@ As you begin Module 5, here are a few things to keep in mind.
   Don't just read the notes, **do** the notes - actually implement in code the
   algorithms and partial code being presented. 
 
-- As in each module, the assignment and all hands-on activities are due no later
-  than 11:59 PM CT on the last day of the module.
+- As in each module, the assignment and all hands-on activities are due at
+  11:59 PM CT on the last day of the module.
 
 As always, please reach out if you have any questions concerning the course.
 
