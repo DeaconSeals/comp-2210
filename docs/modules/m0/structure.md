@@ -31,20 +31,19 @@ for [this term](http://www.auburn.edu/main/auweb_calendar.php).
 
 Module | Dates                   | Duration 
 ------ | ----------------------- | --------   
-M0     | Mon 19 May - Thu 22 May | (4 days)  
-M1     | Fri 23 May - Sun 01 Jun | (10 days)^  
-M2     | Mon 02 Jun - Wed 11 Jun | (10 days)  
-M3     | Thu 12 Jun - Sat 21 Jun | (10 days)  
-M4     | Sun 22 Jun - Sun 06 Jul | (15 days)^  
-M5     | Mon 07 Jul - Thu 17 Jul | (11 days)  
-M6     | Fri 18 Jul - Sun 27 Jul | (10 days)  
-M7     | Mon 28 Jul - Fri 01 Aug | (5 days)   
+M0     | Mon 18 Aug - Sun 24 Aug | (7 days)  
+M1     | Mon 25 Aug - Sun 07 Sep | (14 days)^  
+M2     | Mon 08 Sep - Sun 21 Sep | (14 days)  
+M3     | Mon 22 Sep - Sun 05 Oct | (14 days)  
+M4     | Mon 06 Oct - Sun 19 Oct | (14 days)^  
+M5     | Mon 20 Oct - Sun 02 Nov | (14 days)  
+M6     | Mon 03 Nov - Sun 16 Nov | (14 days)  
+M7     | Mon 17 Nov - Fri 05 Dec | (19 days)^   
 
 ^ *University No-Class Days:*  
-Mon 26 May, Memorial Day
-Thu 19 Jun, Juneteenth
-Tue 24 Jun - Fri 27 Jun - Mini-Semester I Reading Days and Finals
-Fri 4 Jul - Independence Day
+Mon 01 Sep, Labor Day
+Thu 09 Oct - Fri 10 Oct, Fall Break
+Mon 24 Nov - Fri 28 Nov, Thanksgiving Break
 
 # Module Structure
 
