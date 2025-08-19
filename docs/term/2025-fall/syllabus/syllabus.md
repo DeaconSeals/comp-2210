@@ -255,26 +255,26 @@ and most relevant chapters from each textbook.
 
 Week  | Dates                    | Module | Graded Items | Bailey | Shaffer | Weiss | Sedgewick
 ----  | -----                    | ------ | ------------ | ------ | ------- | ----- | ---------
-1     | Mon 13 Jan - Sun 19 Jan  | M0     | H            |        |         |       |       
-2-3   | Mon 20 Jan - Sun 02 Feb  | M1     | H A          | 2, 4, 8, 11 | 1 | 1-4, 6 | 3, 4, 12 
-4-5   | Mon 03 Feb - Sun 16 Feb  | M2     | H A E T      | 5, 6 | 2, 3, 7 | 5, 8 | 2, 6-8
-6-7   | Mon 17 Feb - Sun 02 Mar  | M3     | H A          | 3, 7, 9 | 4 | 6, 17 | 3, 4 
-8-9   | Mon 03 Mar - Sun 23 Mar  | M4     | H A E T      | 5, 9-11 | 2, 4 | 6, 7, 15-17 | 4, 5 
-10-11 | Mon 24 Mar - Sun 06 Apr  | M5     | H A          | 12, 13 | 5, 10, 13 | 6, 18, 19, 21 | 5, 9, 12, 13 
-12-13 | Mon 07 Apr - Sun 20 Apr  | M6     | H A          | 15, 16 | 9, 11 | 6, 14, 20 | 1, 14
-14-15 | Mon 21 Apr - Wed 30 Apr  | M7     | H E T        |   | 6 | 24 | 1, 4  
+1     | Mon 18 Aug - Sun 24 Aug  | M0     | H            |        |         |       |       
+2-3   | Mon 25 Aug - Sun 07 Sep  | M1     | H A          | 2, 4, 8, 11 | 1 | 1-4, 6 | 3, 4, 12 
+4-5   | Mon 08 Sep - Sun 21 Sep  | M2     | H A E T      | 5, 6 | 2, 3, 7 | 5, 8 | 2, 6-8
+6-7   | Mon 22 Sep - Sun 05 Oct  | M3     | H A          | 3, 7, 9 | 4 | 6, 17 | 3, 4 
+8-9   | Mon 06 Oct - Sun 19 Oct  | M4     | H A E T      | 5, 9-11 | 2, 4 | 6, 7, 15-17 | 4, 5 
+10-11 | Mon 20 Oct - Sun 02 Nov  | M5     | H A          | 12, 13 | 5, 10, 13 | 6, 18, 19, 21 | 5, 9, 12, 13 
+12-13 | Mon 03 Nov - Sun 16 Nov  | M6     | H A          | 15, 16 | 9, 11 | 6, 14, 20 | 1, 14
+14-15 | Mon 17 Nov - Wed 30 Apr  | M7     | H E T        |   | 6 | 24 | 1, 4  
 
 The **Final Exam**, which is part of M7, will be given on the last lab day of
 the course and **not** on the day designated in the Final Exam Schedule.
 
 ## Lab Test and Exam Dates
 
-09/23: Lab Test 1 
-09/25: Exam 1 
-10/21: Lab Test 2 
-10/23: Exam 2 
-12/02: Lab Test 3 
-12/04: Final Exam
+- 09/23: Lab Test 1 
+- 09/25: Exam 1 
+- 10/21: Lab Test 2 
+- 10/23: Exam 2 
+- 12/02: Lab Test 3 
+- 12/04: Final Exam
 
 **Note**: The above dates are subject to change at the instructor's discretion.
 Students will be notified of any changes via Canvas announcement.
