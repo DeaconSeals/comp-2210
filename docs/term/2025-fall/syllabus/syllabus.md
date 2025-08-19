@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 18, 2025*
+*Published: August 19, 2025*
 
 ---
 
