@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: January 07, 2026*
+*Published: January 08, 2026*
 
 ---
 
@@ -26,10 +26,10 @@ Section   | Day | Time | Location
 
 Section   | Day | Time | Location | Staff |
 -------   | --- | ---- | -------- | ----- |
-001       | TR  | 12:30 PM - 1:45 PM | Shelby 2205 | TBD
-002       | TR  | 12:30 PM - 1:45 PM | Shelby 2210 | TBD
-006       | TR  | 2:00 PM - 3:15 PM | Shelby 2205 | TBD
-007       | TR  | 2:00 PM - 3:15 PM | Shelby 2210 | TBD
+001       | TR  | 12:30 PM - 1:45 PM | Shelby 2205 | Rosalyn Navarrate and Aidan Toomey
+002       | TR  | 12:30 PM - 1:45 PM | Shelby 2210 | Xian Gao and Michael Simmons
+006       | TR  | 2:00 PM - 3:15 PM | Shelby 2205 | Rosalyn Navarrate and Aidan Toomey
+007       | TR  | 2:00 PM - 3:15 PM | Shelby 2210 | Xian Gao and Michael Simmons
 
 
 **Note Regarding Canvas and Course Sections:** All the course sections above
@@ -154,10 +154,10 @@ Auburn, AL 36849
 
 GTA | Email | Lab Sections
 --- | ----- | ------------       
-Xian Gao | xig0001@auburn.edu | TBD
-Rosalyn Navarrate | rdn0011@auburn.edu | TBD
-Michael Simmons | mzs0260@auburn.edu | TBD
-Aidan Toomey | act0075@auburn.edu | TBD
+Xian Gao | xig0001@auburn.edu | 002, 007
+Rosalyn Navarrate | rdn0011@auburn.edu | 001, 006
+Michael Simmons | mzs0260@auburn.edu | 002, 007
+Aidan Toomey | act0075@auburn.edu | 001, 006
 
 ---
 
