@@ -58,4 +58,6 @@ Students from a diverse range of majors contract this course for honors credit (
 * system administration (communication between multiple computers)
 * graphical user interface design
 * games and game-playing programs
+
+
 *Please note: in general, if your project required hardware, you are responsible for providing this. I am happy to help you pick out hardware though.*
