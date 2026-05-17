@@ -1,43 +1,37 @@
 
 ---
 
-# COMP 2210 Fundamentals of Computing II <br> Spring 2026 Course Syllabus
+# COMP 2210 Fundamentals of Computing II <br> Summer 2026 Course Syllabus
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: January 08, 2026*
+*Published: May 17, 2026*
 
 ---
 
-# Course Meetings
+# Course Instructional Mode
 
-This a combined lecture/lab course in which all sections meet together for
-lecture but separately for lab. Meeting times and locations for lecture and lab
-are shown below. Attendance is required for both lecture and lab, since certain
-information can be obtained only in those class meetings.
+The instructional mode for this course is *Online Asynchronous*. The course
+will be conducted online in its entirety, and there will be no specific time
+of day during which you are required to participate in a course activity. You
+will be responsible for setting your own schedule for completing course
+readings, watching pre-recorded lecture videos, submitting assignments and
+taking exams no later than the published deadlines, and completing all other
+activities required by this course.
 
-## Lecture
+You are expected to have all the equipment and software needed to be
+successful in this course. At a minimum, you must have a computer and a
+broadband Internet connection capable of interacting with Canvas and Vocareum
+via a web browser, as well as streaming video and audio of pre-recorded lectures.
 
-Section   | Day | Time | Location  
---------- | --- | ---- | --------  
-(all) | TR | 8:00 AM - 9:15 AM  | Shelby 1103  
-
-## Lab
-
-Section   | Day | Time | Location | Staff |
--------   | --- | ---- | -------- | ----- |
-001       | TR  | 12:30 PM - 1:45 PM | Shelby 2205 | Rosalyn Navarrate and Aidan Toomey
-002       | TR  | 12:30 PM - 1:45 PM | Shelby 2210 | Xian Gao and Michael Simmons
-006       | TR  | 2:00 PM - 3:15 PM | Shelby 2205 | Rosalyn Navarrate and Aidan Toomey
-007       | TR  | 2:00 PM - 3:15 PM | Shelby 2210 | Xian Gao and Michael Simmons
-
-
-**Note Regarding Canvas and Course Sections:** All the course sections above
-are combined (cross-listed) into one Canvas course. Canvas labels this single
-course "COMP-2210-001" and makes it appear (incorrectly!) that everyone is in
-section 001 of the course. Be sure to check Tiger Scheduler to make sure you
-know which section you are registered for and, therefore, which lab
-you must attend.
+Times for all course events (assignment deadlines, exam times, etc.) will be
+set in US [Central Time](https://www.timeanddate.com/time/zones/ct). 
+You are responsible for meeting deadlines in Central Time regardless of
+what your local time zone may be. You may find it helpful to follow the
+instructions linked
+[here](https://community.canvaslms.com/t5/Student-Guide/How-do-I-set-a-time-zone-in-my-user-account-as-a-student/ta-p/414)
+to have Canvas show deadlines appropriately in your local time zone to avoid
+any confusion.
 
 
 # Course Description
@@ -150,14 +144,14 @@ Auburn University
 Auburn, AL 36849  
 
 
-## Teaching Assistants
+<!-- ## Teaching Assistants
 
 GTA | Email | Lab Sections
 --- | ----- | ------------       
 Xian Gao | xig0001@auburn.edu | 002, 007
 Rosalyn Navarrate | rdn0011@auburn.edu | 001, 006
 Michael Simmons | mzs0260@auburn.edu | 002, 007
-Aidan Toomey | act0075@auburn.edu | 001, 006
+Aidan Toomey | act0075@auburn.edu | 001, 006 -->
 
 ---
 
@@ -252,21 +246,21 @@ the course that indicates for each module the dates, types of graded items due,
 and most relevant chapters from each textbook. 
 
 
-Week  | Dates                    | Module | Graded Items | Bailey | Shaffer | Weiss | Sedgewick
-----  | -----                    | ------ | ------------ | ------ | ------- | ----- | ---------
-1     | Wed 07 Jan - Sun 11 Jan  | M0     | H            |        |         |       |       
-2-3   | Mon 12 Jan - Sun 25 Jan  | M1     | H A          | 2, 4, 8, 11 | 1 | 1-4, 6 | 3, 4, 12 
-4-5   | Mon 26 Jan - Sun 08 Feb  | M2     | H A E T      | 5, 6 | 2, 3, 7 | 5, 8 | 2, 6-8
-6-7   | Mon 09 Feb - Sun 22 Feb  | M3     | H A          | 3, 7, 9 | 4 | 6, 17 | 3, 4 
-8-9   | Mon 23 Feb - Sun 15 Mar  | M4     | H A E T      | 5, 9-11 | 2, 4 | 6, 7, 15-17 | 4, 5 
-10-11 | Mon 16 Mar - Sun 29 Mar  | M5     | H A          | 12, 13 | 5, 10, 13 | 6, 18, 19, 21 | 5, 9, 12, 13 
-12-13 | Mon 30 Mar - Sun 12 Apr  | M6     | H A          | 15, 16 | 9, 11 | 6, 14, 20 | 1, 14
-14-15 | Mon 13 Apr - Fri 24 Apr  | M7     | H E T        |   | 6 | 24 | 1, 4  
+Dates                    | Module | Graded Items | Bailey | Shaffer | Weiss | Sedgewick
+-----                    | ------ | ------------ | ------ | ------- | ----- | ---------
+Mon 18 May - Thu 21 May  | M0     | H            |        |         |       |       
+Fri 22 May - Sun 31 May  | M1     | H A          | 2, 4, 8, 11 | 1 | 1-4, 6 | 3, 4, 12 
+Mon 01 Jun - Wed 10 Jun  | M2     | H A E T      | 5, 6 | 2, 3, 7 | 5, 8 | 2, 6-8
+Thu 11 Jun - Sat 20 Jun  | M3     | H A          | 3, 7, 9 | 4 | 6, 17 | 3, 4 
+Sun 21 Jun - Sun 05 Jul  | M4     | H A E T      | 5, 9-11 | 2, 4 | 6, 7, 15-17 | 4, 5 
+Mon 06 Jul - Thu 16 Jul  | M5     | H A          | 12, 13 | 5, 10, 13 | 6, 18, 19, 21 | 5, 9, 12, 13 
+Fri 17 Jul - Sun 26 Jul  | M6     | H A          | 15, 16 | 9, 11 | 6, 14, 20 | 1, 14
+Mon 27 Jul - Fri 31 Jul  | M7     | H E T        |   | 6 | 24 | 1, 4 
 
-The **Final Exam**, which is part of M7, will be given on the last lab day of
-the course and **not** on the day designated in the Final Exam Schedule.
+The **Final Exam**, which is part of M7, will be avilable over a period of
+time, rather than only on the day designated in the Final Exam Schedule.
 
-## Lab Test and Exam Dates
+<!-- ## Lab Test and Exam Dates
 
 - 02/10: Lab Test 1 
 - 02/12: Exam 1 
@@ -277,7 +271,7 @@ the course and **not** on the day designated in the Final Exam Schedule.
 
 **Note**: The above dates are subject to change at the instructor's discretion.
 Students will be notified of any changes via Canvas announcement.
-
+ -->
 ---
 
 # Course Policies
@@ -360,11 +354,16 @@ commitment and work that a course will require per credit hour. "*Auburn
 University expects that for each credit hour awarded, an appropriately prepared
 student will complete an average of 3-3.5 hours of academic work per week over
 the length of a 15 week semester.*" This time estimate is independent of
-instructional mode. 
+instructional mode, so although this course is being offered
+Online Asynchronous, you should plan on spending the same amount of
+preparation, work, and “in class” time on this course as you would if you were
+taking the course face-to-face. Also, since this course is being offered in a
+compressed 11 week format, the expected amount of time per week is
+effectively 50% more.
 
 This course carries four credit hours, so at a minimum, an "appropriately
 prepared" student (read: you did great in COMP 1210) would be expected to spend
-12-14 hours each week working on this course. Regardless of the specifics, you
+16-18 hours each week working on this course. Regardless of the specifics, you
 are expected to allocate an appropriate amount of time for this course. 
 
 
