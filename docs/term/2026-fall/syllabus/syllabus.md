@@ -26,8 +26,8 @@ Section   | Day | Time | Location
 
 Section   | Day | Time | Location | Staff |
 -------   | --- | ---- | -------- | ----- |
-001       | TR  | 12:30 PM - 1:45 PM | Shelby 2205 | Michael Simmons
-002       | TR  | 12:30 PM - 1:45 PM | Shelby 2210 | Xian Gao
+001       | TR  | 9:30 AM - 10:45 AM | Shelby 2205 | Michael Simmons
+002       | TR  | 9:30 AM - 10:45 AM | Shelby 2210 | Xian Gao
 
 **Note Regarding Canvas and Course Sections:** All the course sections above
 are combined (cross-listed) into one Canvas course. Canvas labels this single
