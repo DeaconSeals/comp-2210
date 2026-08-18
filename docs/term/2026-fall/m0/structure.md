@@ -31,18 +31,19 @@ for [this term](http://www.auburn.edu/main/auweb_calendar.php).
 
 Module | Dates                   | Duration 
 ------ | ----------------------- | --------   
-M0     | Wed 07 Jan - Sun 11 Jan | (5 days)  
-M1     | Mon 12 Jan - Sun 25 Jan | (14 days)^  
-M2     | Mon 26 Jan - Sun 08 Feb | (14 days)  
-M3     | Mon 09 Feb - Sun 22 Feb | (14 days)  
-M4     | Mon 23 Feb - Sun 15 Mar | (21 days)^  
-M5     | Mon 16 Mar - Sun 29 Mar | (14 days)  
-M6     | Mon 30 Mar - Sun 12 Apr | (14 days)  
-M7     | Mon 13 Apr - Fri 24 Apr | (12 days)   
+M0     | Mon 17 Aug - Sun 23 Aug | (7 days)  
+M1     | Mon 24 Aug - Sun 06 Sep | (14 days)  
+M2     | Mon 07 Sep - Sun 20 Sep | (14 days)^  
+M3     | Mon 21 Sep - Sun 04 Oct | (14 days)  
+M4     | Mon 05 Oct - Sun 18 Oct | (14 days)^ 
+M5     | Mon 19 Oct - Sun 01 Nov | (14 days)  
+M6     | Mon 02 Nov - Sun 15 Nov | (14 days)  
+M7     | Mon 16 Nov - Fri 04 Dec | (19 days)^   
 
 ^ *University No-Class Days:*  
-Mon 19 Jan, M.L. King Jr. Day
-Mon 09 Mar - Fri 13 Mar, Spring Break
+Mon 07 Sep, Labor Day
+Thu 08 Oct - Fri 09 Oct, Fall Break
+Mon 23 Nov - Fri 27 Nov, Thanksgiving Break
 
 # Module Structure
 
