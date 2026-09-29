@@ -5,7 +5,8 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 16, 2026*
+*Updated: September 29, 2026*
+*Change: added Exam and Test Attendance policy*
 
 ---
 
@@ -317,6 +318,28 @@ instructor directly for other absences.
 >
 > 1. An official memo is sent directly to professors via email regarding the
 >    student’s absence
+
+## Exam and Test Attendance
+
+You must be physically present in your assigned lab room during your assigned
+lab time to take the test/exam, and all work on the test/exam must be done
+from within the lab during your scheduled lab time. You cannot take the
+test/exam in whole or part outside of your assigned lab time and lab room.
+
+If you submit your test/exam before the time limit expires, you must call over
+your TA so they can observe you end the session. Ending a Lab Test  session
+consists of clicking a blue "End Exam" button in Vocareum. Ending an exam
+session consists of clicking the "Submit Quiz" button in Canvas/LockDown.
+
+You must sign out with your TA before leaving. The TA will verify both your
+attendance and the submission of your lab test or exam. If you fail to sign
+out, but submit your lab test or exam, you will be assigned a 0. If your
+submission changes after verification, this will prompt an academic dishonesty
+investigation.
+
+If you arrive more than 5 minutes late to your assigned lab session, you are
+required to sign in with your TA. If your TA identifies any submissions before
+a late sign-in, you will be assigned a 0.
 
 ## Exam and Test Makeup
 
